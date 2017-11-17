@@ -9,3 +9,4 @@ C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mad2trainer.vbpro
 C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\CowHax's Madagascar 2 Trainer.exe
 C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\CowHax's Madagascar 2 Trainer.xml
 C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\CowHax's Madagascar 2 Trainer.pdb
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mad2trainer.vbprojResolveAssemblyReference.cache
