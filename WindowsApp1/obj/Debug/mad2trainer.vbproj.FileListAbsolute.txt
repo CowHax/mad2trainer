@@ -1,0 +1,11 @@
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\bin\Debug\CowHax's Madagascar 2 Trainer.exe.config
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\bin\Debug\CowHax's Madagascar 2 Trainer.exe
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\bin\Debug\CowHax's Madagascar 2 Trainer.pdb
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\bin\Debug\CowHax's Madagascar 2 Trainer.xml
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mad2trainer.Form1.resources
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mad2trainer.Resources.resources
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mad2trainer.vbproj.GenerateResource.Cache
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mad2trainer.vbproj.CoreCompileInputs.cache
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\CowHax's Madagascar 2 Trainer.exe
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\CowHax's Madagascar 2 Trainer.xml
+C:\Users\CowHax\source\repos\WindowsApp1\WindowsApp1\obj\Debug\CowHax's Madagascar 2 Trainer.pdb
