@@ -12,4 +12,4 @@ https://github.com/CowHax/mad2trainer/blob/master/WindowsApp1/bin/Debug/CowHax's
 
 If any crashes occur try running the application as administrator. 
 If you found any bugs please report them on github by submitting it in the Issues tab.
-Questions? Feel free to contact me: cowhax@gmail.com
+Questions? Feel free to contact me: cowhax@pm.me
